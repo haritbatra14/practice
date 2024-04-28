@@ -1,0 +1,61 @@
+body
+{
+    background-color: black;
+}
+h2
+{
+    color: white;
+    margin: 25px;
+}
+
+h1
+{
+    color: white;
+    font-size: 34px;
+}
+.btn-btn-primary
+{
+background-color: black;
+border-radius: 60px;
+padding: 10px;
+cursor: pointer;
+color: white;
+}
+.btn-btn-primary:hover
+{
+    background-color: orange;
+    color: white;
+}
+.btn-btn-primary2
+{
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 60px;
+    background-color: black;
+    color: white;
+
+
+}
+.btn-btn-primary2:hover
+{
+    background-color: orange;
+    color: white;
+}
+p
+{
+    color: white;
+     width: 50%;
+     margin: 0;
+}
+
+img 
+{
+    height: 200px;
+    width: 200px;
+}
+.container
+{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+}
